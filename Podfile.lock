@@ -1,0 +1,35 @@
+PODS:
+  - AARatingBar (1.1)
+  - Alamofire (5.3.0)
+  - Moya/Core (14.0.0):
+    - Alamofire (~> 5.0)
+  - Moya/RxSwift (14.0.0):
+    - Moya/Core
+    - RxSwift (~> 5.0)
+  - RxSwift (5.1.1)
+  - SwiftLint (0.40.3)
+
+DEPENDENCIES:
+  - AARatingBar
+  - Alamofire (~> 5.2)
+  - Moya/RxSwift (~> 14.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - AARatingBar
+    - Alamofire
+    - Moya
+    - RxSwift
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  AARatingBar: 62f56244aaa436c0379dc54e398e90d337f097b8
+  Alamofire: 2c792affbdc2f18016e08fdbcacd60aebe1ba593
+  Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
+  RxSwift: 81470a2074fa8780320ea5fe4102807cb7118178
+  SwiftLint: dfd554ff0dff17288ee574814ccdd5cea85d76f7
+
+PODFILE CHECKSUM: 0fef98f83c8f6152b10dc4df15414d1c71ab5cc8
+
+COCOAPODS: 1.10.0
